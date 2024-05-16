@@ -45,7 +45,7 @@ Este repositório contém um script Python que lê o texto de um arquivo PDF em 
    sudo apt-get install mpg321
    ```
 
-## Uso
+## Uso[^1]
 
 Execute o script:
 
@@ -81,4 +81,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Coautoria
 
-Este script foi escrito em coautoria com o ChatGPT, baseado no modelo GPT-4 da OpenAI.
+Este script foi escrito em coautoria com o ChatGPT, baseado no modelo GPT-4o da OpenAI.
+
+[^1]: Esse escript foi criado e testado em distribuição Linux baseada no Ubuntu.
